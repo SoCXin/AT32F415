@@ -1,26 +1,39 @@
-﻿# [MM32SPIN120](https://github.com/SoCXin/MM32SPIN120) 
+﻿# [AT32F415](https://github.com/SoCXin/AT32F415)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://SoC.Xin) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/SoCXin/Vendor)：[MindMotion](http://www.mm32.com.cn/)
-#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0) 
-#### [Level](https://github.com/SoCXin/Level)：72MHz 
+* [arterytek](https://www.arterytek.com/cn/index.jsp): [Cortex-M4](https://github.com/SoCXin/Cortex)
+* [L4R3](https://github.com/SoCXin/Level): 150 MHz x 1.25 DMIPS/MHz
 
-## [描述](https://github.com/SoCXin/MM32SPIN120/wiki) 
+## [简介](https://github.com/SoCXin/AT32F415/wiki)
 
-[MM32SPIN120](https://github.com/SoCXin/MM32SPIN120) 是电机专用类SoC，产品内嵌1个比较器
+[![sites](docs/AT32F415.png)](https://www.arterytek.com/cn/product/AT32F415.jsp?t=1629180327199#Resource)
 
-集成了2个GateDriver，支持外挂功率 N 型 MOSFET 驱动器，工作电压4.5V ∼ 15V。GateDriver还支持电压UVLO保护。
+### 关键特性
 
-[![sites](docs/MM32SPIN120.png)](https://github.com/SoCXin/MM32SPIN120) 
+* Cortex®-M4主频最高 150 MHz
+* 3 x USART + 2 x UART
+* 1 x CAN 2.0B
+* USB 2.0 Device/Host，内置1280 Byte专用SRAM
+* 1 x SDIO
 
-### [资源收录](https://github.com/SoCXin/MM32SPIN120)
+### [资源收录](https://github.com/SoCXin/AT32F415)
 
-* [文档](docs/)
-* [资源](src/)
+* [参考资源](src/)
+* [参考文档](docs/)
+* [参考工程](project/)
+
 
 ### [选型建议](https://github.com/SoCXin)
 
-[MM32SPIN120](https://github.com/SoCXin/MM32SPIN120) 
+[AT32F415](https://github.com/SoCXin/AT32F415) 主要特点在于USB OTG功能
 
-###  [SoC芯平台](http://SoC.Xin) 
+#### 封装规格
+
+* LQFP64 10 x 10 mm
+* LQFP64 7 x 7 mm
+* LQFP48 7 x 7 mm
+* QFN48 6 x 6 mm
+* QFN32 4 x 4 mm
+
+### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
