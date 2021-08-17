@@ -26,14 +26,7 @@
 
 ### [选型建议](https://github.com/SoCXin)
 
-[AT32F415](https://github.com/SoCXin/AT32F415) 主要特点在于USB OTG功能
+[AT32F415](https://github.com/SoCXin/AT32F415) 主要特点在于USB OTG功能，定位终端控制类设备32K SRAM限制扩展能力，不具备家族式外部 SPI Flash memory 扩展能力，主频150相对240较低，定位对手STM32F072系列/GD32F350系列。
 
-#### 封装规格
-
-* LQFP64 10 x 10 mm
-* LQFP64 7 x 7 mm
-* LQFP48 7 x 7 mm
-* QFN48 6 x 6 mm
-* QFN32 4 x 4 mm
 
 ### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
